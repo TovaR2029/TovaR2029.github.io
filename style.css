@@ -11,7 +11,7 @@
 #hero {
     display: inline-block;
 }
-#content {
+#content,p,header {
   font-family: "Sour Gummy" !important;
 }
 #name {
